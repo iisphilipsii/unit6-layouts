@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  border: 2px solid #ccc;
+  border: 2px solid #fd0202;
   padding: 0 10px;
 }
 
@@ -37,7 +37,7 @@ section {
 
 footer {
   clear: both;
-  border: 2px solid #ccc;
+  border: 2px solid #ff0000;
   padding: 0 10px;
 }
 
